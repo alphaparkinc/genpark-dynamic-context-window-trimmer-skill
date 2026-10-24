@@ -1,0 +1,12 @@
+{
+  "name": "genpark-dynamic-context-window-trimmer-skill",
+  "version": "1.0.0",
+  "description": "Dynamic agent conversation window compactor balancing attention decay, entity retention, and token budget",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["context-window", "compression", "token-trimmer", "attention-decay", "entity-retention", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
